@@ -16,7 +16,3 @@
 .settings .settings__setting {
   margin-bottom: 30px;
 }
-
-.settings .settings__setting:last-child {
-  margin-bottom: 0;
-}
